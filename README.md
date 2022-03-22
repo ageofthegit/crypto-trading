@@ -3,7 +3,7 @@ My experiments with Backtrader, hyperparameter optimisation and supertrends.
 
 bt_volcoins_20210714.ipynb :
   Using Backtrader test the Volatile Coin strategy; 
-    Volatile coins are the ones that 
+    Volatile coins are the ones that move up or down by a certain percentage
 
 bts_supertrend_double_20210807.ipynb :
   Using backtrader test the supertrend strategy with double buy and sell on every signal; 
